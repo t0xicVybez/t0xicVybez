@@ -32,17 +32,9 @@
 
 ### `01.` &nbsp;About Me
 
-```bash
-$ cat about.txt
-
-  Hobbyist dev. I build Discord bots, automation tools, and whatever
-  else catches my interest. I don't wait until things are perfect —
-  I ship, iterate, and learn. Usually found coding at midnight.
-
-  Location  →  California
-  Focus     →  Discord bots · Automation · Web projects
-  Currently →  Actively developing ArkenBot
-```
+<div align="center">
+  <img src="./about-typing.svg" alt="About Me — animated terminal" width="680"/>
+</div>
 
 <br/>
 
