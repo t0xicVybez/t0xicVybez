@@ -39,7 +39,7 @@ $ cat about.txt
   else catches my interest. I don't wait until things are perfect —
   I ship, iterate, and learn. Usually found coding at midnight.
 
-  Location  →  Rocklin, CA
+  Location  →  California
   Focus     →  Discord bots · Automation · Web projects
   Currently →  Actively developing ArkenBot
 ```
