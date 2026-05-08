@@ -76,15 +76,18 @@ Moderation, utilities, fun commands, and more — open source and invite-ready.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=t0xicVybez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0xicVybez&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" />
+<!-- Profile summary (commits, PRs, issues, reviews) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t0xicVybez&theme=github_dark" width="100%" />
 
-</div>
+<!-- Row: stats breakdown + repos by language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t0xicVybez&theme=github_dark" height="180" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t0xicVybez&theme=github_dark" height="180" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t0xicVybez&theme=github_dark" height="180" />
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=t0xicVybez&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" />
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=t0xicVybez&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" />
 
 </div>
 
@@ -107,7 +110,7 @@ Moderation, utilities, fun commands, and more — open source and invite-ready.
 ---
 
 <div align="center">
-<sub><code>● Currently building in the open </code></sub>
+<sub><code>● Currently building in the open &nbsp;·&nbsp; Rocklin, CA</code></sub>
 
 <br/><br/>
 
