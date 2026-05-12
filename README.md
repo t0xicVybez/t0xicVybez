@@ -62,7 +62,18 @@ Moderation, utilities, fun commands, and more — open source and invite-ready.
 
 <br/>
 
----
+<table>
+<tr>
+<td width="100%">
+
+**⚡ [GamingCommunity](https://github.com/t0xicVybez/GamingCommunity)** &nbsp; `Community Website Template`
+
+Open-source PHP gaming community platform — forums, clips, clans, events, leaderboards
+
+</td>
+</tr>
+</table>
+<br/>
 
 ### `03.` &nbsp;GitHub Stats
 
