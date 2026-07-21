@@ -1,121 +1,132 @@
 <div align="center">
 
-<!-- Typing SVG header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hobbyist+Dev;Bot+Maker;t0xicVybez;Always+Building+Something" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=520&lines=Hobbyist+Dev;Bot+Maker;Library+Author;Always+Building+Something" alt="t0xicVybez" />
 
-<br/>
-
-<!-- Handle label -->
 <sub><code>// t0xicVybez</code></sub>
 
-<br/><br/>
+<br/>
 
-<!-- Short bio -->
-**Hobbyist developer with a passion for automation, Discord bots,**  
-**and building tools that actually solve real problems.**  
-*I build what interests me — and I ship it.*
+**I build automation, Discord bots, and developer tools that solve real problems.**
+*Everything here is open source, and most of it is running in production somewhere.*
 
 <br/>
 
-<!-- Tech stack badges -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML%2FCSS-E34C26?style=flat-square&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0d1117)
 
 <br/>
 
----
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.gg/R4QYCvg7pW)
+[![Profile views](https://komarev.com/ghpvc/?username=t0xicVybez&color=39d353&style=flat-square&label=profile+views)](https://github.com/t0xicVybez)
 
 </div>
 
-### `01.` &nbsp;About Me
+---
+
+### `01.` &nbsp;About
 
 <div align="center">
-  <img src="./about-typing.svg" alt="About Me — animated terminal" width="680"/>
+  <img src="./about-typing.svg" alt="About me — animated terminal" width="680"/>
 </div>
-
-<br/>
 
 ---
 
-### `02.` &nbsp;Featured Project
+### `02.` &nbsp;Featured Work
 
-<table>
-<tr>
-<td width="100%">
+<!-- FEATURED:START -->
+<table><tr><td width="100%">
 
-**⚡ [ArkenBot](https://github.com/t0xicVybez/arkenbot)** &nbsp; `PUBLIC BOT`
+#### [ArkenBot](https://github.com/t0xicVybez/ArkenBot)
 
-A feature-rich public Discord bot built with Discord.js.  
-Moderation, utilities, fun commands, and more — open source and invite-ready.
+ArkenBot — Discord bot with dashboard
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-[![Invite ArkenBot](https://img.shields.io/badge/Invite%20Bot-39D353?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1477178407543373834)
-[![top.gg](https://img.shields.io/badge/Vote%20on%20top.gg-FF3366?style=flat-square&logo=discord&logoColor=white)](https://top.gg/bot/1477178407543373834)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=0d1117) [![Stars](https://img.shields.io/github/stars/t0xicVybez/ArkenBot?style=flat-square&labelColor=0d1117&color=39d353)](https://github.com/t0xicVybez/ArkenBot/stargazers) [![Forks](https://img.shields.io/github/forks/t0xicVybez/ArkenBot?style=flat-square&labelColor=0d1117&color=39d353)](https://github.com/t0xicVybez/ArkenBot/forks)
 
-</td>
-</tr>
-</table>
+</td></tr></table>
 
-<br/>
+<table><tr><td width="100%">
 
-<table>
-<tr>
-<td width="100%">
+#### [GameQuery](https://github.com/t0xicVybez/GameQuery) &nbsp;·&nbsp; [**Live**](https://query.arkenbot.app)
 
-**⚡ [GamingCommunity](https://github.com/t0xicVybez/GamingCommunity)** &nbsp; `Community Website Template`
+Zero-dependency game server query library for PHP and Node/TypeScript — A2S/Source, Minecraft, FiveM, Palworld, SA-MP and 23 protocol families across 53 games, with 1:1 matching ports.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117) [![Stars](https://img.shields.io/github/stars/t0xicVybez/GameQuery?style=flat-square&labelColor=0d1117&color=39d353)](https://github.com/t0xicVybez/GameQuery/stargazers) [![Forks](https://img.shields.io/github/forks/t0xicVybez/GameQuery?style=flat-square&labelColor=0d1117&color=39d353)](https://github.com/t0xicVybez/GameQuery/forks) [![npm downloads](https://img.shields.io/npm/dm/@t0xicvybez/gamequery?style=flat-square&logo=npm&logoColor=white&label=npm&labelColor=0d1117&color=39d353)](https://www.npmjs.com/package/@t0xicvybez/gamequery) [![Packagist](https://img.shields.io/packagist/dt/t0xicvybez/gamequery?style=flat-square&logo=packagist&logoColor=white&label=installs&labelColor=0d1117&color=39d353)](https://packagist.org/packages/t0xicvybez/gamequery)
+
+</td></tr></table>
+
+<table><tr><td width="100%">
+
+#### [GamingCommunity](https://github.com/t0xicVybez/GamingCommunity)
 
 Open-source PHP gaming community platform — forums, clips, clans, events, leaderboards
 
-</td>
-</tr>
-</table>
-<br/>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117) [![Stars](https://img.shields.io/github/stars/t0xicVybez/GamingCommunity?style=flat-square&labelColor=0d1117&color=39d353)](https://github.com/t0xicVybez/GamingCommunity/stargazers) [![Forks](https://img.shields.io/github/forks/t0xicVybez/GamingCommunity?style=flat-square&labelColor=0d1117&color=39d353)](https://github.com/t0xicVybez/GamingCommunity/forks)
 
-### `03.` &nbsp;GitHub Stats
+</td></tr></table>
+<!-- FEATURED:END -->
+
+---
+
+### `03.` &nbsp;Published Packages
+
+Libraries you can install today. Counters are live.
+
+<!-- PACKAGES:START -->
+| Registry | Package | Source | |
+|---|---|---|---|
+| npm | [`@t0xicvybez/gamequery`](https://www.npmjs.com/package/@t0xicvybez/gamequery) | [GameQuery](https://github.com/t0xicVybez/GameQuery) | ![v](https://img.shields.io/npm/v/@t0xicvybez/gamequery?style=flat-square&labelColor=0d1117&color=39d353) ![dm](https://img.shields.io/npm/dm/@t0xicvybez/gamequery?style=flat-square&label=downloads%2Fmo&labelColor=0d1117&color=39d353) |
+| Packagist | [`t0xicvybez/gamequery`](https://packagist.org/packages/t0xicvybez/gamequery) | [GameQuery](https://github.com/t0xicVybez/GameQuery) | ![v](https://img.shields.io/packagist/v/t0xicvybez/gamequery?style=flat-square&labelColor=0d1117&color=39d353) ![dt](https://img.shields.io/packagist/dt/t0xicvybez/gamequery?style=flat-square&label=installs&labelColor=0d1117&color=39d353) |
+<!-- PACKAGES:END -->
+
+---
+
+### `04.` &nbsp;Everything Else
+
+<!-- PROJECTS:START -->
+| Project | What it does | Stack | |
+|---|---|---|---|
+| [**Arken-Docs**](https://github.com/t0xicVybez/Arken-Docs) | ArkenBot Documentation | `TypeScript` | ★ 1 |
+| [**RoninOBSChat**](https://github.com/t0xicVybez/RoninOBSChat) | YouTube live chat bot plugin for OBS Studio | `C++` | — |
+| [**RoninChatScript**](https://github.com/t0xicVybez/RoninChatScript) | YouTube live chat bot OBS Python script — no OAuth setup required | `Python` | — |
+| [**ronin-forge**](https://github.com/t0xicVybez/ronin-forge) | Game server provisioning wizard for Windows. Installs and configures dedicated servers, exports directly into Ronin Server Manager. | `JavaScript` | — |
+<!-- PROJECTS:END -->
+
+<div align="right">
+<!-- UPDATED:START -->
+<sub>7 public projects · list refreshed automatically 2026-07-21</sub>
+<!-- UPDATED:END -->
+</div>
+
+---
+
+### `05.` &nbsp;GitHub Stats
 
 <div align="center">
 
-<!-- Profile summary (commits, PRs, issues, reviews) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t0xicVybez&theme=github_dark" width="100%" />
 
-<!-- Row: stats breakdown + repos by language -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t0xicVybez&theme=github_dark" height="180" />
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t0xicVybez&theme=github_dark" height="180" />
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t0xicVybez&theme=github_dark" height="180" />
 
-<!-- Streak -->
 <img src="https://streak-stats.demolab.com?user=t0xicVybez&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" />
 
 </div>
 
-<br/>
-
----
-
-### `04.` &nbsp;Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-t0xicVybez-181717?style=for-the-badge&logo=github)](https://github.com/t0xicVybez)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/R4QYCvg7pW)
-[![top.gg](https://img.shields.io/badge/top.gg-ArkenBot-FF3366?style=for-the-badge&logo=discord&logoColor=white)](https://top.gg/bot/1477178407543373834)
-
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
-<sub><code>● Currently building in the open &nbsp;·&nbsp; Rocklin, CA</code></sub>
 
-<br/><br/>
+[![GitHub](https://img.shields.io/badge/GitHub-t0xicVybez-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/t0xicVybez)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.gg/R4QYCvg7pW)
+[![ArkenBot](https://img.shields.io/badge/Invite-ArkenBot-39D353?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/oauth2/authorize?client_id=1477178407543373834)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=t0xicVybez&color=39d353&style=flat-square&label=profile+views)
+<sub><code>● Building in the open &nbsp;·&nbsp; Rocklin, CA</code></sub>
+
 </div>

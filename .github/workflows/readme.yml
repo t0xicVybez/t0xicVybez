@@ -1,0 +1,53 @@
+name: Update profile README
+
+# Keeps the Featured / Packages / Everything Else sections in sync with whatever
+# is actually on the account, so a new repository advertises itself without any
+# manual editing. Runs on a schedule, on demand, and whenever the generator or
+# the README template itself changes.
+on:
+  schedule:
+    - cron: '17 */6 * * *' # every 6 hours, off the hour to dodge peak load
+  workflow_dispatch: # "Run workflow" button
+  repository_dispatch: # curl-able trigger, e.g. right after creating a repo
+    types: [refresh-readme]
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build-readme.mjs'
+      - '.github/workflows/readme.yml'
+      - 'README.md'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Regenerate README
+        env:
+          # Lifts the API rate limit and is enough for reading public repos.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/build-readme.mjs
+
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README already up to date."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh profile README"
+          git push
