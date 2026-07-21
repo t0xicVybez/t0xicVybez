@@ -57,16 +57,6 @@ Zero-dependency game server query library for PHP and Node/TypeScript — A2S/So
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117) [![Stars](https://img.shields.io/github/stars/t0xicVybez/GameQuery?style=flat-square&labelColor=0d1117&color=39d353)](https://github.com/t0xicVybez/GameQuery/stargazers) [![Forks](https://img.shields.io/github/forks/t0xicVybez/GameQuery?style=flat-square&labelColor=0d1117&color=39d353)](https://github.com/t0xicVybez/GameQuery/forks) [![npm downloads](https://img.shields.io/npm/dm/@t0xicvybez/gamequery?style=flat-square&logo=npm&logoColor=white&label=npm&labelColor=0d1117&color=39d353)](https://www.npmjs.com/package/@t0xicvybez/gamequery) [![Packagist](https://img.shields.io/packagist/dt/t0xicvybez/gamequery?style=flat-square&logo=packagist&logoColor=white&label=installs&labelColor=0d1117&color=39d353)](https://packagist.org/packages/t0xicvybez/gamequery)
 
 </td></tr></table>
-
-<table><tr><td width="100%">
-
-#### [GamingCommunity](https://github.com/t0xicVybez/GamingCommunity)
-
-Open-source PHP gaming community platform — forums, clips, clans, events, leaderboards
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&labelColor=0d1117) [![Stars](https://img.shields.io/github/stars/t0xicVybez/GamingCommunity?style=flat-square&labelColor=0d1117&color=39d353)](https://github.com/t0xicVybez/GamingCommunity/stargazers) [![Forks](https://img.shields.io/github/forks/t0xicVybez/GamingCommunity?style=flat-square&labelColor=0d1117&color=39d353)](https://github.com/t0xicVybez/GamingCommunity/forks)
-
-</td></tr></table>
 <!-- FEATURED:END -->
 
 ---
@@ -90,14 +80,11 @@ Libraries you can install today. Counters are live.
 | Project | What it does | Stack | |
 |---|---|---|---|
 | [**Arken-Docs**](https://github.com/t0xicVybez/Arken-Docs) | ArkenBot Documentation | `TypeScript` | ★ 1 |
-| [**RoninOBSChat**](https://github.com/t0xicVybez/RoninOBSChat) | YouTube live chat bot plugin for OBS Studio | `C++` | — |
-| [**RoninChatScript**](https://github.com/t0xicVybez/RoninChatScript) | YouTube live chat bot OBS Python script — no OAuth setup required | `Python` | — |
-| [**ronin-forge**](https://github.com/t0xicVybez/ronin-forge) | Game server provisioning wizard for Windows. Installs and configures dedicated servers, exports directly into Ronin Server Manager. | `JavaScript` | — |
 <!-- PROJECTS:END -->
 
 <div align="right">
 <!-- UPDATED:START -->
-<sub>7 public projects · list refreshed automatically 2026-07-21</sub>
+<sub>3 public projects · list refreshed automatically 2026-07-21</sub>
 <!-- UPDATED:END -->
 </div>
 
