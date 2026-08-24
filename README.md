@@ -114,6 +114,8 @@ Libraries you can install today. Counters are live.
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.gg/R4QYCvg7pW)
 [![ArkenBot](https://img.shields.io/badge/Invite-ArkenBot-39D353?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/oauth2/authorize?client_id=1477178407543373834)
 
+<a href="https://www.buymeacoffee.com/corylynch8d" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=corylynch8d&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" height="42" /></a>
+
 <sub><code>● Building in the open &nbsp;·&nbsp; Rocklin, CA</code></sub>
 
 </div>
