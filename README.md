@@ -79,12 +79,13 @@ Libraries you can install today. Counters are live.
 <!-- PROJECTS:START -->
 | Project | What it does | Stack | |
 |---|---|---|---|
+| [**fivem-discord-admin**](https://github.com/t0xicVybez/fivem-discord-admin) | — | `JavaScript` | — |
 | [**Arken-Docs**](https://github.com/t0xicVybez/Arken-Docs) | ArkenBot Documentation | `TypeScript` | ★ 1 |
 <!-- PROJECTS:END -->
 
 <div align="right">
 <!-- UPDATED:START -->
-<sub>3 public projects · list refreshed automatically 2026-11-16</sub>
+<sub>4 public projects · list refreshed automatically 2026-11-16</sub>
 <!-- UPDATED:END -->
 </div>
 
